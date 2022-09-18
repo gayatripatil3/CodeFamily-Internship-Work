@@ -1,0 +1,120 @@
+.container{
+    position: relative;
+width: 1577px;
+height: 1024px;
+background: #B9FDFD;
+}
+.list{
+    display:flex;
+    list-style: none;
+}
+#home{
+    position: absolute;
+width: 98px;
+height: 61px;
+left: 70px;
+top: 49px;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+color: #31B82E;
+}
+#menu{
+    position: absolute;
+    width: 97px;
+    height: 111px;
+    left: 232px;
+    top: 49px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #31B82E;
+    
+}
+#sign{
+    position: absolute;
+    width: 130px;
+    height: 53px;
+    left: 394px;
+    top: 49px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #31B82E;
+}
+#about{
+    position: absolute;
+    width: 169px;
+    height: 30px;
+    left: 574px;
+    top: 49px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #31B82E;
+}
+.para{
+    position: absolute;
+width: 699px;
+height: 385px;
+left: 70px;
+top: 172px;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 800;
+font-size: 64px;
+line-height: 77px;
+color: #EB2D66;
+}
+.para2{
+    position: absolute;
+width: 670px;
+height: 24px;
+left: 70px;
+top: 576px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #493CDC;
+}
+img{
+    position: absolute;
+width: 799px;
+height: 1024px;
+left: 778px;
+top: 0px;
+background: url(headsets.jpg);
+}
+.but1{
+position: absolute;
+width: 362px;
+height: 64px;
+left: 265px;
+top: 821px;
+background: #F51010;
+}
+h5{
+    position: fixed;
+    left:320px;
+    top:240px;
+text-align: center;
+font-family: 'Inter';font-style: italic;
+font-weight: 800;
+font-size: 36px;
+
+color: #FFFCFC;
+}
